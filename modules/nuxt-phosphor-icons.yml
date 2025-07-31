@@ -1,11 +1,11 @@
 name: nuxt-phosphor-icons
-description: Just a simple integration for @phosphor-icons in Nuxt
+description:  An easier way of using @phosphor-icons/vue in your Nuxt project!
 repo: oyedejioyewole/nuxt-phosphor-icons
 npm: nuxt-phosphor-icons
 icon: phosphor-icons.svg
 github: https://github.com/oyedejioyewole/nuxt-phosphor-icons
 website: https://nuxt-phosphor-icons.vercel.app
-learn_more: https://nuxt-phosphor-icons.vercel.app
+learn_more: ''
 category: UI
 type: 3rd-party
 maintainers:
